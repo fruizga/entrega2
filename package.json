@@ -1,0 +1,14 @@
+{
+  "name": "entrea2",
+  "version": "1.0.1",
+  "description": "entrega dos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faber ruizgallego@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
